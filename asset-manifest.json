@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mutualfund_react/static/css/main.0ecfd357.chunk.css",
+    "main.js": "/mutualfund_react/static/js/main.bc5fdcce.chunk.js",
+    "main.js.map": "/mutualfund_react/static/js/main.bc5fdcce.chunk.js.map",
+    "runtime-main.js": "/mutualfund_react/static/js/runtime-main.ed6d7300.js",
+    "runtime-main.js.map": "/mutualfund_react/static/js/runtime-main.ed6d7300.js.map",
+    "static/js/2.eba72b44.chunk.js": "/mutualfund_react/static/js/2.eba72b44.chunk.js",
+    "static/js/2.eba72b44.chunk.js.map": "/mutualfund_react/static/js/2.eba72b44.chunk.js.map",
+    "index.html": "/mutualfund_react/index.html",
+    "precache-manifest.a07ee23a208f065be337e4b8e6ccfde2.js": "/mutualfund_react/precache-manifest.a07ee23a208f065be337e4b8e6ccfde2.js",
+    "service-worker.js": "/mutualfund_react/service-worker.js",
+    "static/css/main.0ecfd357.chunk.css.map": "/mutualfund_react/static/css/main.0ecfd357.chunk.css.map"
+  }
+}
